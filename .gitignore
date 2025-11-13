@@ -1,0 +1,9 @@
+# Flutter
+flutter/
+task_manager/build/
+task_manager/.dart_tool/
+task_manager/.idea/
+task_manager/*.iml
+task_manager/.flutter-plugins
+task_manager/.flutter-plugins-dependencies
+task_manager/android/local.properties
